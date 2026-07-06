@@ -1,0 +1,2 @@
+grades.sort();
+# print(grades);
