@@ -18,4 +18,6 @@ def game():
         with open('hiScore.txt', 'w') as f:
             f.write(str(score))
 
+    return score
+
 game()
