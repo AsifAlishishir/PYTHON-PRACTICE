@@ -3,7 +3,7 @@ class Student:
     college='diit'
     def __init__(self, name, marks):
         print(self)
-        self.name=name;
+        self.name=name
         self.marks=marks
         print('adding new student in database...')
 
